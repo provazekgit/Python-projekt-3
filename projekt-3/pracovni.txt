@@ -1,0 +1,36 @@
+-----------
+Příklad URL
+-----------
+https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=4&xnumnuts=3203
+
+https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=1
+------------
+Příklad spuštění projektu příkazu v terminálu
+------------
+
+python election-scraper.py "https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=4&xnumnuts=3203" vysledky-plzen.csv
+
+python projekt_33.py "https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=4&xnumnuts=3203" vysledky_obce8.csv
+
+python projekt_3.py "https://volby.cz/pls/ps2017nss/ps2?xjazyk=CZ" vysledky_obce10.csv
+
+
+------------
+spuštění virtuálního prostředí
+------------
+Terminál (windows správce)
+
+venv\Scripts\activate
+--
+Instalace knihoven(requests a beautifulsoup4)
+
+pip install requests beautifulsoup4
+--
+Znovu vygeneruj soubor (requirements.txt)
+
+pip freeze > requirements.txt
+--
+v terminálu se ukáže v závorce spuštené virtual prostředí
+(venv)
+Můžeme spouštět projekt
+--
