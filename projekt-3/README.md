@@ -33,7 +33,7 @@ Skript vyžaduje dva argumenty: URL stránky s výsledky a název výstupního s
 
 Výsledky hlasování Plzeň město
 
-1. argument: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=4&xnumnuts=3203
+1. argument: https://www.volby.cz/pls/ps2017nss/ps31?xjazyk=CZ&xkraj=4&xnumnuts=3203
 2. argument: vysledky-plzen.csv
 
 Kompletní příklad
