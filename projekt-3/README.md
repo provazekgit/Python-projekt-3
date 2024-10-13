@@ -4,7 +4,9 @@
 
 Tento projekt je Election scraper, který stahuje výsledky voleb z roku 2017 z webu volby.cz. Odkaz [ZDE](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
 
-Ukázka výběru lokality Odkaz [ZDE](https://www.volby.cz/pls/ps2017nss/ps31?xjazyk=CZ&xkraj=4&xnumnuts=3203)(https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=4&xnumnuts=3204)
+Ukázka výběru lokality Odkaz [ZDE](https://www.volby.cz/pls/ps2017nss/ps31?xjazyk=CZ&xkraj=4&xnumnuts=3203)
+
+Ukázka výběru lokality 2 Odkaz [ZDE](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=4&xnumnuts=3204)
 
 Data se stahují a ukládají do souboru CSV.
 
