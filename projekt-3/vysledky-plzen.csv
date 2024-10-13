@@ -1,36 +1,13 @@
-***Okrsky***,***Okrsky***,***Okrsky***,***Voliči v seznamu***,***Vydané obálky***,***Volební účast v %***,***Odevzdané obálky***,***Platné hlasy***,***% platných hlasů***
-***celkem***,***zpr.***,***v %***
-208,208,"100,00",146 073,89 292,"61,13",89 205,88 649,"99,38"
-
-***Strana***,***Strana***,***Platné hlasy***,***Platné hlasy***,***Předn. hlasy***
-***číslo***,***název***,***celkem***,***v %***
-1,Občanská demokratická strana,12 744,"14,37",X
-2,Řád národa - Vlastenecká unie,170,"0,19",X
-3,CESTA ODPOVĚDNÉ SPOLEČNOSTI,79,"0,08",X
-4,Česká str.sociálně demokrat.,6 694,"7,55",X
-6,Radostné Česko,101,"0,11",X
-7,STAROSTOVÉ A NEZÁVISLÍ,3 605,"4,06",X
-8,Komunistická str.Čech a Moravy,5 649,"6,37",X
-9,Strana zelených,1 341,"1,51",X
-10,"ROZUMNÍ-stop migraci,diktát.EU",513,"0,57",X
-12,Strana svobodných občanů,1 790,"2,01",X
-13,Blok proti islam.-Obran.domova,101,"0,11",X
-14,Občanská demokratická aliance,336,"0,37",X
-15,Česká pirátská strana,10 228,"11,53",X
-
-***Strana***,***Strana***,***Platné hlasy***,***Platné hlasy***,***Předn. hlasy***
-***číslo***,***název***,***celkem***,***v %***
-16,OBČANÉ 2011-SPRAVEDL. PRO LIDI,59,"0,06",X
-19,Referendum o Evropské unii,72,"0,08",X
-20,TOP 09,6 279,"7,08",X
-21,ANO 2011,25 430,"28,68",X
-23,SPR-Republ.str.Čsl. M.Sládka,177,"0,19",X
-24,Křesť.demokr.unie-Čs.str.lid.,3 299,"3,72",X
-25,Česká strana národně sociální,31,"0,03",X
-26,REALISTÉ,832,"0,93",X
-27,SPORTOVCI,338,"0,38",X
-28,Dělnic.str.sociální spravedl.,170,"0,19",X
-29,Svob.a př.dem.-T.Okamura (SPD),8 334,"9,40",X
-30,Strana Práv Občanů,277,"0,31",X
--,-,-,-,-
-
+Kód obce (code),Název obce (location),Počet voličů (registered),Vydané obálky (envelop),Platné hlasy (valid),Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,Komunistická str.Čech a Moravy,Strana zelených,"ROZUMNÍ-stop migraci,diktát.EU",Strana svobodných občanů,Blok proti islam.-Obran.domova,Občanská demokratická aliance,Česká pirátská strana,OBČANÉ 2011-SPRAVEDL. PRO LIDI,Referendum o Evropské unii,TOP 09,ANO 2011,SPR-Republ.str.Čsl. M.Sládka,Křesť.demokr.unie-Čs.str.lid.,Česká strana národně sociální,REALISTÉ,SPORTOVCI,Dělnic.str.sociální spravedl.,Svob.a př.dem.-T.Okamura (SPD),Strana Práv Občanů
+330,Plzeň,3 512,2 370,2 358,352,2,1,138,1,106,136,23,12,43,2,4,282,3,4,112,776,6,82,0,22,9,4,232,6,-
+331,Plzeň 1,39 592,23 682,23 541,3 020,37,24,1 880,20,917,1 639,340,146,501,25,92,2 794,19,13,1 524,6 869,56,789,7,225,111,39,2 371,83,-
+332,Plzeň 2-Slovany,27 027,16 755,16 622,2 729,35,15,1 216,17,660,968,255,77,354,19,70,1 951,7,19,1 316,4 340,24,728,7,168,38,44,1 516,49,-
+333,Plzeň 3,38 563,21 963,21 810,3 068,45,21,1 603,30,777,1 435,390,134,411,24,72,2 668,21,16,1 622,6 209,43,833,9,180,82,47,2 004,66,-
+334,Plzeň 4,19 380,12 358,12 244,1 804,17,6,985,19,503,777,173,62,269,12,48,1 250,5,11,861,3 701,25,471,6,111,38,15,1 045,30,-
+335,Plzeň 5-Křimice,1 647,963,955,147,2,2,75,0,45,55,7,5,20,1,4,122,0,0,67,268,2,21,0,8,2,0,99,3,-
+336,Plzeň 6-Litice,1 579,1 042,1 034,130,4,2,75,1,40,61,19,4,20,1,3,121,0,0,92,289,1,64,1,9,4,3,85,5,-
+337,Plzeň 7-Radčice,799,538,533,80,2,0,31,0,32,25,2,8,16,1,0,47,0,0,39,155,0,15,0,10,5,3,62,0,-
+338,Plzeň 8-Černice,1 250,909,906,166,2,0,59,0,51,38,12,8,13,1,4,89,0,0,74,241,0,39,0,13,4,1,88,3,-
+339,Plzeň 9-Malesice,636,402,397,71,0,0,16,0,17,20,5,0,7,0,3,48,0,1,34,108,2,16,0,2,0,3,43,1,-
+340,Plzeň 10-Lhota,984,688,681,116,2,0,49,1,34,32,6,1,11,2,3,96,0,3,56,167,4,23,1,13,5,0,52,4,-
+345,Starý Plzenec,11 104,7 622,7 568,1 061,22,8,567,12,423,463,109,56,125,13,33,760,4,5,482,2 307,14,218,0,71,40,11,737,27,-
